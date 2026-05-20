@@ -1,0 +1,11 @@
+patient_id,gender,age,district,state,country,location_type
+3541,male,32,Nellore,Andhra Pradesh,India,urban
+9299,female,54,Chandigarh,Chandigarh,India,
+4823,female,47,Pondicherry,Puducherry,India,urban
+12486,female,34,Pondicherry,Puducherry,India,urban
+1064,male,49,Cuddalore,Tamil Nadu,India,urban
+2437,male,60,Cuddalore,Tamil Nadu,India,rural
+4723,female,40,Cuddalore,Tamil Nadu,India,urban
+5969,female,29,Viluppuram,Tamil Nadu,India,rural
+13801,female,1,Viluppuram,Tamil Nadu,India,rural
+7235,male,51,Bankura,West Bengal,India,rural

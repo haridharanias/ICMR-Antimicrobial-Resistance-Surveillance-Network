@@ -1,0 +1,15 @@
+hospital_patient_rel_id,hospital_id,patient_id,admission_date,hospital_dept_id,ward_type,infection_type_id,clinical_diagnosis,comorbidity,devices_used,prior_admission
+492592,4,1064,2023-02-24,Surgery,OPD,Community Acquired Infection,,,,
+493337,4,7235,2023-02-23,Surgery,Ward,Health Care Associated Infection,,,,
+508358,4,4823,2023-07-01,Endocrinology,OPD,Community Acquired Infection,,,,Ward
+507281,4,4823,2023-06-13,Nephrology,ICU,Health Care Associated Infection,Renal transplantation,,Mechanical ventilator,
+531900,3,3541,2023-07-04,Pulmonary medicine,OPD,Not Known,ASTHMA MILD HAEMOPHILIA,,,
+533842,2,9299,2023-08-28,Internal Medicine,OPD,Not Known,NULL,NULL,NULL,
+536285,2,9299,2023-08-17,Emergency Surgery,Ward,Not Known,NULL,NULL,NULL,
+536286,2,9299,2023-08-21,Emergency Surgery,Ward,Not Known,NULL,NULL,NULL,
+543957,4,13801,2023-10-17,Pediatric Surgery,OPD,Community Acquired Infection,,,,
+544941,4,2437,2023-10-30,Pulmonary medicine,OPD,Community Acquired Infection,,,,
+548758,4,5969,2023-11-15,Dermatology,Ward,Community Acquired Infection,phemphigus vulgaris,,,
+555246,4,5969,2023-11-15,Dermatology,Ward,Health Care Associated Infection,phemphigus vulgaris,,,
+561046,4,4723,2023-12-26,Surgery,OPD,Community Acquired Infection,,,,
+561139,4,12486,2023-12-27,Urology,OPD,Community Acquired Infection,,,,
